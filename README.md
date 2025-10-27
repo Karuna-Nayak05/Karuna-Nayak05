@@ -1,4 +1,4 @@
-# Hi, I'm Karuna  
+# Hi, I'm Karuna Nayak.S
 *Building technology that supports people.*
 
 Cloud & DevOps Enthusiast | AI & Computer Vision Developer  
