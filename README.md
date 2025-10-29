@@ -65,5 +65,5 @@ If you're working on something meaningful, I’d love to connect.
 ---
 
 ### 📫 Connect With Me
-**LinkedIn:** https://www.linkedin.com/in/karuna-nayak  
+**LinkedIn:** https://www.linkedin.com/in/karuna-nayak-s/
 **Email:** karunanayak2004@gmail.com
