@@ -1,7 +1,7 @@
 # Hi, I'm Karuna Nayak.S
 *Building technology that works when it matters most.*
 
-**Final Year B.E. (CSE) Student | Aspiring Cloud & DevOps Engineer**
+**Cloud engineer who moves Linux workloads from AWS to Google Cloud and automates the deployments that follow. Google Cloud Certified Professional Cloud Architect.**
 Blending strong computer science fundamentals with production-grade SRE & DevOps skills.
 
 ---
@@ -41,11 +41,6 @@ Blending strong computer science fundamentals with production-grade SRE & DevOps
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-#### 🤖 AI & Research
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat)
-
 ---
 
 ### 📚 Current Focus
@@ -61,7 +56,7 @@ Blending strong computer science fundamentals with production-grade SRE & DevOps
 ---
 
 ### 🤝 Open To
-- **Roles:** Internships & Entry-Level roles in DevOps, SRE, or Cloud Engineering.
+- **Roles:** Entry-Level roles in DevOps, SRE, or Cloud Engineering.
 - **Collaboration:** Projects involving distributed systems, cloud automation, or open-source tools.
 
 ---
